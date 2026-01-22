@@ -63,7 +63,7 @@ Pandas – Data processing
 
 Tabulate – Displaying tables in the terminal
 
-▶How to Run the Program
+How to Run the Program
 
 Make sure Python is installed.
 
@@ -101,15 +101,17 @@ User demographics (user type, gender, birth year)
 
 Option to display raw data in chunks
 
- Example Output
- Time Statistics
-           +--------------------+-----------+
-           | Item               | Value     |
-           +--------------------+-----------+
-           | Most common month  | March     |
-           | Most common day    | Friday    |
-           | Most common hour   | 17        |
-           +--------------------+-----------+
+     Example Output
+     Time Statistics
+
+ 
+                +--------------------+-----------+
+                | Item               | Value     |
+                +--------------------+-----------+
+                | Most common month  | March     |
+                | Most common day    | Friday    |
+                | Most common hour   | 17        |
+                +--------------------+-----------+
 
 Purpose
 
