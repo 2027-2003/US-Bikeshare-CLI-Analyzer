@@ -103,13 +103,13 @@ Option to display raw data in chunks
 
  Example Output
  Time Statistics
-+--------------------+-----------+
-| Item               | Value     |
-+--------------------+-----------+
-| Most common month  | March     |
-| Most common day    | Friday    |
-| Most common hour   | 17        |
-+--------------------+-----------+
+           +--------------------+-----------+
+           | Item               | Value     |
+           +--------------------+-----------+
+           | Most common month  | March     |
+           | Most common day    | Friday    |
+           | Most common hour   | 17        |
+           +--------------------+-----------+
 
 Purpose
 
